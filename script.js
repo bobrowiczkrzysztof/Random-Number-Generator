@@ -1,7 +1,7 @@
 // Constants
 const minNumber = 1;
 const maxNumber = 100;
-const numberOfChoices = 5;
+const numberOfChoices = 10;
 
 // Function that activates the program
 const clickMe = () => {
